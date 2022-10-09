@@ -1,5 +1,7 @@
 black
 ipykernel
 jupyter
+matplotlib
 numpy
 pandas
+seaborn
